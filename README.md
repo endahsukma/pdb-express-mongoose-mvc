@@ -1,4 +1,5 @@
 # Proyek Basis Data Pertemuan ke-05
+ Endah sukma kuncari
 Model-View-Controller atau MVC adalah sebuah metode untuk membuat sebuah aplikasi 
 dengan memisahkan data (Model) dari tampilan (View) dan cara bagaimana 
 memprosesnya (Controller). Dalam implementasinya kebanyakan framework dalam
